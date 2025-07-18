@@ -8,15 +8,11 @@ Driven and creative Frontend Developer with a passion for crafting seamless user
 
 ## **Skills & Technologies**
 
-Frontend: Angular, HTML5, CSS3, TypeScript, JavaScript, Responsive Design
-APIs: RESTful integration, working with mock/public APIs for rapid prototyping
-Tooling: Git, GitHub, Agile workflows
-Collaboration: Effective communicator, team player, quick learner
-Learning: Currently learning Backend
-
-## **What Sets Me Apart**
-
-I am passionate about staying up-to-date with the latest trends in web development, and I love tackling new challenges. My projects showcase a blend of technical proficiency and creative problem-solving, making me an asset for teams seeking innovation and reliability.
+Frontend: Angular, HTML5, CSS3, TypeScript, JavaScript, Responsive Design <br>
+APIs: RESTful integration, working with mock/public APIs for rapid prototyping <br>
+Tooling: Git, GitHub, Agile workflows <br>
+Collaboration: Effective communicator, team player, quick learner <br>
+Learning: Currently learning Backend <br>
 
 ## **Let’s Connect**
 
