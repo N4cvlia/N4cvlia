@@ -17,3 +17,4 @@ Learning: Currently learning Backend <br>
 ## **Let’s Connect**
 
 I am open to exciting opportunities and collaborations. If you’re looking for a frontend specialist who delivers high-quality solutions and can adapt to new technologies quickly, let’s connect!
+![N4cvlia's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
